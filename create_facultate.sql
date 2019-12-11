@@ -1,0 +1,1 @@
+CREATE SCHEMA `facultate` DEFAULT CHARACTER SET utf8 ;
